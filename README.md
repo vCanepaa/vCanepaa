@@ -1,5 +1,5 @@
 - 👋 Oi, eu me chamo Vinicius Canepa
-- 🌱 Eu atualmente estou aprendendo Html e Css
+- 🌱 Eu atualmente estou aprendendo Html, Css e JavaScript
 - 📫 Você pode entrar em contato comigo pelo discord: Zé Carioca#4510
 
 <!---
