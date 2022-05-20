@@ -5,9 +5,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/vCanepaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vCanepaa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vCanepaa&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/vcanepaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vcanepaa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcanepaa&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
   
