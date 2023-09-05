@@ -1,5 +1,5 @@
 - 👋 Oi, eu me chamo Vinicius Canepa
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas 3/5
+- 🌱 Estudante de Analise e Desenvolvimento de Sistemas 4/6
 - 📫 Tenho conhecimento em HTML, CSS e JS.
 
 
